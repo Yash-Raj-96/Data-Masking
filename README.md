@@ -71,9 +71,11 @@ Data masking is a privacy technique used to protect sensitive information by rep
 
 | Step                          | Preview |
 |-------------------------------|---------|
-| 📤 Upload Dataset             | ![Upload](screenshots/upload.png) |
-| ✅ Select Masking Options     | ![Select](screenshots/select_columns.png) |
-| 🛡️ View Masked Output         | ![Masked](screenshots/masked_output.png) |
+| 📤 Upload Dataset             | ![Upload](https://github.com/Yash-Raj-96/Data-Masking/blob/main/sample_data/Output/Screenshot%202025-03-25%20000252.png?raw=true
+) |
+| ✅ Select Masking Options     | ![Select](https://github.com/Yash-Raj-96/Data-Masking/blob/main/sample_data/Output/Screenshot%202025-03-25%20000337.png?raw=true
+) |
+| 🛡️ View Masked Output         | ![Masked](https://github.com/Yash-Raj-96/Data-Masking/blob/main/sample_data/Output/Screenshot%202025-03-25%20000435.png?raw=true) |
 
 ---
 

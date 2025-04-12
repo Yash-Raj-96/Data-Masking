@@ -1,8 +1,7 @@
-
-```markdown
 # 🔐 Data Masking for Privacy-Preserving Data Analytics
 
 Data masking is a privacy technique used to protect sensitive information by replacing original data with fictional but realistic data. This process ensures data privacy while allowing datasets to be shared for data analytics and machine learning without compromising confidential information. In this project, we have implemented a simple data masking tool that allows users to upload a dataset, select attributes to mask, and download the masked version for secure analytics.
+
 ---
 
 ## 🚀 Features

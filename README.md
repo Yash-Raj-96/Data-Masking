@@ -67,15 +67,12 @@ Data masking is a privacy technique used to protect sensitive information by rep
 
 ## 🖼️ Screenshots
 
-> Add these screenshots in the `screenshots/` folder and update paths accordingly.
-
 | Step                          | Preview |
 |-------------------------------|---------|
-| 📤 Upload Dataset             | ![Upload](https://github.com/Yash-Raj-96/Data-Masking/blob/main/sample_data/Output/Screenshot%202025-03-25%20000252.png?raw=true
-) |
-| ✅ Select Masking Options     | ![Select](https://github.com/Yash-Raj-96/Data-Masking/blob/main/sample_data/Output/Screenshot%202025-03-25%20000337.png?raw=true
-) |
+| 📤 Upload Dataset             | ![Upload](https://github.com/Yash-Raj-96/Data-Masking/blob/main/sample_data/Output/Screenshot%202025-03-25%20000252.png?raw=true) |
+| ✅ Select Masking Options     | ![Select](https://github.com/Yash-Raj-96/Data-Masking/blob/main/sample_data/Output/Screenshot%202025-03-25%20000337.png?raw=true) |
 | 🛡️ View Masked Output         | ![Masked](https://github.com/Yash-Raj-96/Data-Masking/blob/main/sample_data/Output/Screenshot%202025-03-25%20000435.png?raw=true) |
+
 
 ---
 
@@ -118,5 +115,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 💡 Author
 
 Made with ❤️ by [Yash Raj](https://github.com/Yash-Raj-96)
-
-```
